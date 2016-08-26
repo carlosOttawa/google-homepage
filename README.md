@@ -18,7 +18,7 @@
 	<a href="">Advertising</a> <a href="">Business</a> <a href="">About</a> 
 </div>
 <div align="left" background-color="gray">
-	<a href="">Privacy</a> <a href="">Terms</a> <a href="">Settings</a>
+	<a href=""> Privacy </a> <a href=""> Terms </a> <a href=""> Settings </a>
 </div>
 </body>
 </html>
