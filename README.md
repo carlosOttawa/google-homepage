@@ -1,5 +1,4 @@
 # google-homepage
-<!DOCTYPE html>
 <html>
 <body>
 <div>
